@@ -1,3 +1,3 @@
 export default function Page() {
-  return <p>GCP&aposs Page</p>;
+  return <p>invoice Page</p>;
 }
