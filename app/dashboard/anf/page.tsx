@@ -1,3 +1,3 @@
 export default function Page() {
-  return <p>ANF's Page</p>;
+  return <p>ANF&aposs Page</p>;
 }
